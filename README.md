@@ -14,7 +14,7 @@ Run `main_aorta_def_icra2020.m`.
 
 ## Contacts:
 
-Yanhao Zhang: yanhao.zhang@student.uts.edu.au. Any discussions or concerns are welcomed :)
+Yanhao Zhang: yanhaozhang1991@gmail Any discussions or concerns are welcomed :)
 
 ## Citation
 
